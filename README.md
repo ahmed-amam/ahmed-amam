@@ -7,11 +7,11 @@
   📫 &nbsp;How to reach me **ahmedabdulqader.con@gmail.com**
 
 ### Skills:
-![HTML](https://img.shields.io/badge/-HTML-353535?style=flat-square&logo=HTML5&logoColor=white)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-353535?style=flat&logo=HTML5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-2b2b2b?style=flat&logo=CSS3&logoColor=white)&nbsp;
-![Git](https://img.shields.io/badge/-Git-353535?style=for-the-badge&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-353535?style=for-the-badge&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-353535?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Git](https://img.shields.io/badge/-Git-353535?style=flat&logo=git&logoColor=white)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-353535?style=flat&logo=github&logoColor=white)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-353535?style=flat&logo=visual-studio-code&logoColor=white)&nbsp;
 
 <!-- ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
@@ -26,8 +26,9 @@
 ### Connect with Me:
 
 <p align="left">
-<a href="mailto:ahmedabdulqader.con@gmail.com"><img src="https://img.shields.io/badge/-Gmail-2b2b2b?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-<a href="https://linkedin.com/in/"><img src="https://img.shields.io/badge/-Linkedin-2b2b2b?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:ahmedabdulqader.con@gmail.com"><img src="https://img.shields.io/badge/-Gmail-2b2b2b?style=flatflat&logo=Gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/"><img src="https://img.shields.io/badge/-Linkedin-2b2b2b?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://twitter.com/am_abdelaal"><img src="https://img.shields.io/badge/-Twitter-2b2b2b?style=flat&logo=Twitter&logoColor=white"/></a>
 <!-- <a href="https://instagram.com/"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://facebook.com/"><img src="https://img.shields.io/badge/-@AVS1508-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 <a href="https://www.pinterest.ca/"><img src="https://img.shields.io/badge/-@AVS1508-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a>
