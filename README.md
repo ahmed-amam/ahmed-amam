@@ -1,6 +1,6 @@
 <!-- ![MasterHead]() -->
 <h1 align="center">Ahmed M. Abdelaal</h1>
-<p align="center">A passionate frontend developer from Egypt</p>
+<p align="center">A passionate frontend developer</p>
 <!-- ![I'm Ahmed M. Abdelaal]() -->
 
   🌱 &nbsp;I’m currently learning **HTML, CSS, Git&Github**\
